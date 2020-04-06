@@ -30,7 +30,7 @@
     margin-left: 7.5px;
   }
 
-  .content {
+  .panel {
     height: 90px;
     padding: 0 25px;
     display: flex;
@@ -39,14 +39,14 @@
     justify-content: center;
     border: 1px solid black;
 
-    .title {
+    .panel-title {
       font-weight: bold;
       margin-bottom: 6px;
       font-size: 22px;
       color: #4a4a4a;
     }
 
-    .subtitle {
+    .panel-subtitle {
       font-weight: lighter;
       font-size: 16px;
     }
